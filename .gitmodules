@@ -1,6 +1,6 @@
 [submodule "GRAnalyzer"]
 	path = GRAnalyzer
-	url = git@github.com:JohannIsaak/GRAnalyzer.git
+	url = https://github.com/your_github_account/GRAnalyzer.git
 [submodule "MPIEventLoop"]
 	path = MPIEventLoop
-	url = git@github.com:JohannIsaak/MPIEventLoop.git
+	url = https://github.com/your_github_account/MPIEventLoop.git
